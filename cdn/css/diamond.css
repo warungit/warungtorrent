@@ -1,0 +1,4 @@
+.underline{border-bottom:1px solid black;}.underline:hover{border:none;}
+.heker{border:1px dashed green;}
+.garisbawah{border-bottom:1px solid green;}
+.kolom{height:200px;width:683px;overflow-y:scroll;}

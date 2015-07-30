@@ -1,0 +1,6 @@
+Options -Indexes
+RewriteEngine on  
+RewriteRule ^detail/$ detail.php [NC,L]
+RewriteRule ^detail$ detail.php [NC,L]
+RewriteRule ^index$ index.php [NC,L]
+RewriteRule ^gue$ gue.php [NC,L]
